@@ -1,0 +1,25 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "prettier-fix": "prettier --write ."
+  },
+  "dependencies": {
+    "@notionhq/client": "^2.2.3",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "autoprefixer": "latest",
+    "eslint": "latest",
+    "eslint-config-next": "latest",
+    "eslint-config-prettier": "latest",
+    "postcss": "latest",
+    "prettier": "latset",
+    "tailwindcss": "latest"
+  }
+}
